@@ -1,19 +1,3 @@
-name: "rayon"
-description: "Simple work-stealing parallelism for Rust"
-third_party {
-  url {
-    type: HOMEPAGE
-    value: "https://crates.io/crates/rayon"
-  }
-  url {
-    type: ARCHIVE
-    value: "https://static.crates.io/crates/rayon/rayon-1.5.0.crate"
-  }
-  version: "1.5.0"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 12
-    day: 21
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a94c826b65b2ad8aee30b36382674619909328ec7894f41b385eb7fb37e6d7e
+size 370
